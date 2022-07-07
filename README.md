@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My notes and blog I write for myself
-![https://publish.obsidian.md/aesakamar](https://publish.obsidian.md/aesakamar)
+https://publish.obsidian.md/aesakamar
 
 
 ### What I do on github 
