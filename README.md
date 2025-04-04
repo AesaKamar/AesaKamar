@@ -6,7 +6,16 @@ https://aesakamar.org/
 
 ### What I do on github 
 
-![AesaKamar's github stats](https://github-readme-stats.vercel.app/api?username=AesaKamar&count_private=true&show_icons=true&theme=tokyonight)
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=4334491" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=4334491&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @AesaKamar" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=4334491&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!--
 **AesaKamar/AesaKamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
